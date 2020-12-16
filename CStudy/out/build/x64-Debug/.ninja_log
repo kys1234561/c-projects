@@ -1,0 +1,8 @@
+# ninja log v5
+1	1013	610863970	CStudy/CMakeFiles/CStudy.dir/CStudy.cpp.obj	94765e8eb0d61392
+8	1034	610863970	CStudy/CMakeFiles/CStudy.dir/stl_vector.cpp.obj	a6e021c122b619b8
+1036	1586	610863971	CStudy/CStudy.exe	a65dad326e867227
+1	15	0	clean	b049eaf95b698d8c
+1	679	610863998	CStudy/CMakeFiles/CStudy.dir/CStudy.cpp.obj	94765e8eb0d61392
+8	763	610863998	CStudy/CMakeFiles/CStudy.dir/stl_vector.cpp.obj	a6e021c122b619b8
+764	1069	610863998	CStudy/CStudy.exe	a65dad326e867227
